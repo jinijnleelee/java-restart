@@ -22,7 +22,7 @@ public class Operator2 {
 		//문자열과 숫자 더하기2
 		int num = 20;
 		String str = "a + b =";
-		String result4 = str + num;
+		String result4 = str + num; 
 		System.out.println(result4);
 		
 		//즉 문자열에 더하는것은 다 문자열이 된다
