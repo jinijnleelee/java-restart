@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b6cd2c-6faa-4753-9e36-ad99994867b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/CondOpEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/EvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeSwitchEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="47b6cd2c-6faa-4753-9e36-ad99994867b5" name="Changes" comment="조건문 연습문제">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +42,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jinijnleelee&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9131a38a-f41c-4e26-bf39-9110eb708ec1" />
+        <option name="url" value="https://github.com/jinijnleelee/java-restart.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -41,25 +69,49 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Break1.executor": "Run",
+    "Application.Break2.executor": "Run",
+    "Application.Break3.executor": "Run",
     "Application.CondOp2.executor": "Run",
     "Application.CondOpEx.executor": "Run",
+    "Application.Continue1.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
+    "Application.DoWhile2.executor": "Run",
     "Application.EvenOddEx.executor": "Run",
+    "Application.For1.executor": "Run",
+    "Application.For2.executor": "Run",
+    "Application.ForEx1.executor": "Run",
+    "Application.ForEx2.executor": "Run",
     "Application.GradeSwitchEx.executor": "Run",
     "Application.If2.executor": "Run",
     "Application.MoveRateEx.executor": "Run",
+    "Application.Nested1.executor": "Run",
+    "Application.While1_1.executor": "Run",
+    "Application.While1_2.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EvenOddEx">
-    <configuration name="CondOp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.CondOp2" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WhileEx3">
+    <configuration name="ForEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.ForEx1" />
       <module name="java-restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CondOpEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.CondOpEx" />
+    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.ForEx2" />
       <module name="java-restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.EvenOddEx" />
+    <configuration name="WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx1" />
       <module name="java-restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSwitchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.GradeSwitchEx" />
+    <configuration name="WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx2" />
       <module name="java-restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.MoveRateEx" />
+    <configuration name="WhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx3" />
       <module name="java-restart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenOddEx" />
-        <item itemvalue="Application.CondOpEx" />
-        <item itemvalue="Application.GradeSwitchEx" />
-        <item itemvalue="Application.MoveRateEx" />
-        <item itemvalue="Application.CondOp2" />
+        <item itemvalue="Application.WhileEx3" />
+        <item itemvalue="Application.ForEx2" />
+        <item itemvalue="Application.WhileEx2" />
+        <item itemvalue="Application.ForEx1" />
+        <item itemvalue="Application.WhileEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +197,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715066106316</updated>
     </task>
+    <task id="LOCAL-00001" summary="조건문 연습문제">
+      <option name="closed" value="true" />
+      <created>1715258457053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715258457053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="조건문 연습문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="조건문 연습문제" />
   </component>
 </project>
